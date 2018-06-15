@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">currencyConverter</string>
+    <string name="currencyImage">currencyImage</string>
+    <string name="CurrencyConverter">Currency Converter</string>
+    <string name="yen">yen</string>
+    <string-array name="currencies">
+        <item>Bitcoin</item>
+        <item>Euros</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
